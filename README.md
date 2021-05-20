@@ -14,3 +14,4 @@ To begin follow these steps:
 3. Run the 'backend/src/main/java/com/perch/interview/PerchInterview.java' to start the embedded Tomcat server.  You can do this in any IDE in vscode simply open the file and click on Run (you must have the Java Extension Pack plugin installed)
 4. cd in 'frontend'
 5. run 'npm run start'
+6. Follow the steps outlined in the Front End app js start up page, good luck!
